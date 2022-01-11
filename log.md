@@ -1,4 +1,4 @@
-# 100 Days Of Daze - Log
+# 100 Daze of Cisco - Log
 
 
 
