@@ -1,4 +1,4 @@
-# Rules of the 100 Days Of [effort]
+# Rules of the 100 Days Of Cisco ENCOR
 1.
 
 ## Additional Rules
