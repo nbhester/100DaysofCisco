@@ -1,4 +1,4 @@
-My Cisco CCNP ENCOR #100DaysOfCode Challenge
+My #100DaysOfCisco Challenge
 
 ## Contents
 
